@@ -16,7 +16,7 @@ A Unity-based private car driving simulator tailored to Hong Kong’s driving te
 
 - Demo video: https://youtu.be/oZaKbXssdSM?si=HHuj-rQUMfqlvria
 - Screenshots: [Screenshots Folder]
-- Build (Windows): [Build Folder or GitHub Releases]
+- Build (Windows): [GitHub Releases]
 
 If you are reviewing this project and need a walkthrough of how the systems work (rule detection, AI traffic),
 please use the demo video and screenshots, or contact me for a guided demo.
