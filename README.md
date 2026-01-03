@@ -19,7 +19,7 @@ A Unity-based private car driving simulator tailored to Hong Kong’s driving te
 - Build (Windows): [GitHub Releases](https://github.com/bububoy0907/Capstone-driving-sims-HK/releases/tag/v2025.04-demo)
 
 If you are reviewing this project and need a walkthrough of how the systems work (rule detection, AI traffic),
-please use the demo video and screenshots, or contact me for a guided demo.
+Please use the demo video and screenshots, or contact me for a guided demo.
 
 ---
 
@@ -112,6 +112,52 @@ Pass/fail rule used in this project:
 2. Connect the wheel + pedals before launching the simulator.
 3. Launch the executable: `[DrivingSimulator.exe]`
 4. Interact using the G29 controls (keyboard/mouse support may be limited depending on your build setup).
+---
+
+## Project Showcases (Screenshots)
+
+Title Screen
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/title_screen.png?raw=true)
+
+Route Design:
+  The terrain(map) is constructed:
+  1. Using OpenStreetMap for geographic data
+  2. Using Google Street View from Google Earth for image reference, e.g.: building, road object, signs...
+  3. Modelling the layout and building detail in Blender
+  4. Using EzRoadPro to construct the road
+
+Map Development Progress on Blender
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/map_development.png)
+
+Map Comparison with the actual Google Street View
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_1.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_2.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_3.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_4.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_5.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_7.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_8.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_9.png?raw=1)
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_10.png?raw=1)
+
+Vehicle View
+![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_11.png?raw=1)
+
+AI-Driven Dynamic Traffic
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/NPC_vehicle.png)
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/NPC_vehicle_nav.jpg)
+
+NPC Vehicle Waypoint System
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/npc_waypoint.png)
+
+Traffic Intersection
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/traffic_intersection.png)
+
+Traffic Rule Detection Alert Example
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/vehicle_mechanic.png)
+
+Result Report
+![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/result_screen.png)
 
 ---
 
@@ -122,9 +168,9 @@ Because paid assets are excluded, a full “open and run” Unity project is not
 If you want to rebuild:
 1. Install Unity (use the same major version used in development if possible).
 2. Import your licensed packages:
-   - Vehicle controller package
-   - Traffic / NPC package
-   - Road/building/terrain packages (if you used them)
+   - Realistic Car Controller (RCC)
+   - Mobile Traffic System v2
+   - EzRoadPro
 3. Import the `/src` scripts from this repo into your Unity project.
 4. Wire up references in scenes/prefabs:
    - G29 input mappings
@@ -160,4 +206,4 @@ Planned improvements:
 
 ## Credits / Third-Party
 
-This project uses third-party Unity packages and assets (not redistributed here).  
+This project uses third-party Unity packages and assets (not redistributed here). 
