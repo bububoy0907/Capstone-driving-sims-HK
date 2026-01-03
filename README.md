@@ -7,7 +7,7 @@ A Unity-based private car driving simulator tailored to Hong Kong’s driving te
 - A CAP. 374B-based rule detection + scoring system with real-time alerts and a final result report
 
 > Important: This repository is intentionally **partial-source** due to Unity Asset Store / paid package licensing.
-> It contains **my original code and documentation**, plus an executable build (if included in your repo),
+> It contains **my original code and documentation**, plus an executable build,
 > but it does **not** redistribute paid assets/packages.
 
 ---
@@ -69,37 +69,28 @@ Pass/fail rule used in this project:
 
 ---
 
-## What’s Included vs Not Included (Licensing Transparency)
+## What’s Included vs Not Included
 
 ### Included
 - My original scripts (see `/src`)
-- Documentation for architecture and setup
-- Screenshots / media (if you add them)
-- Windows build (if you included it in the repo)
+- Screenshots/media
+- Windows build (Can be downloaded from the Release)
 
 ### Not Included (by design)
 - Unity Asset Store paid assets / packages (vehicle controller, traffic packages, environment packs, etc.)
 - Any third-party content that cannot be redistributed legally
 
-If you have licenses for the same assets/packages, you can recreate the full Unity project by importing them
-and then integrating the scripts from this repository.
-
 ---
 
-## Repository Structure (Recommended)
+## Repository Structure
 
-If your repo already has a different layout, update this section to match it.
-
-- `/build` — Windows executable build (optional)
+- `/Executable` — Windows executable build (optional)
 - `/media` — screenshots, GIFs, short clips
-- `/docs` — reports, diagrams, development notes
 - `/src` — my original code only (safe to share)
-  - `/src/rule-detection`
-  - `/src/ai-traffic`
-  - `/src/vehicle-control`
-  - `/src/route-checkpoints`
-  - `/src/ui-reporting`
-  - `/src/analysis` (Python/MATLAB notes or scripts, if any)
+  - `/src/TrafficRuleDetection`
+  - `/src/Utils/`
+  - `/src/Integrations`
+  - `/src/Utils`
 
 ---
 
@@ -150,7 +141,7 @@ This project was evaluated using quantitative methods:
 - Post-simulation surveys and simulator performance metrics were collected
 - Descriptive statistics and correlation analysis were used to interpret outcomes
 
-Details are available in the final report/presentation (see `/docs` if included).
+Details are available in the presentation (demo video).
 
 ---
 
@@ -162,7 +153,7 @@ Details are available in the final report/presentation (see `/docs` if included)
 
 Planned improvements:
 - Cleaner alert UX (priority/stacking, better placement, clearer cues)
-- More NPC event variety and “human-like” behavior
+- More NPC event variety and “human-like” behaviour
 - Better onboarding/tutorial flow for first-time users
 
 ---
@@ -170,14 +161,3 @@ Planned improvements:
 ## Credits / Third-Party
 
 This project uses third-party Unity packages and assets (not redistributed here).  
-See: [THIRD_PARTY.md] or list them here if you want reviewers to understand dependencies.
-
----
-
-## Author
-
-Jason Wong (Wong Tsz Yeung)  
-PolyU BSc in Computing (Computer Science), Second-Class Honours (May 2025)  
-GitHub: https://github.com/bububoy0907  
-LinkedIn: [LinkedIn Profile Link]
-Email: [Your Email]
