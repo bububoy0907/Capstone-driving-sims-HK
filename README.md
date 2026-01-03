@@ -1,4 +1,4 @@
-# Hong Kong Driving Simulator (G29 Edition) — Capstone Project (COMP4913)
+# Hong Kong Driving Simulator — Capstone Project
 
 A Unity-based private car driving simulator tailored to Hong Kong’s driving test context, featuring:
 - A 1:1 driving-test route (Ho Man Tin: Chung Yee Street ↔ Carmel Village Street Small Loop)
@@ -16,7 +16,7 @@ A Unity-based private car driving simulator tailored to Hong Kong’s driving te
 
 - Demo video: https://youtu.be/oZaKbXssdSM?si=HHuj-rQUMfqlvria
 - Screenshots: [Screenshots Folder]
-- Build (Windows): [GitHub Releases]
+- Build (Windows): [GitHub Releases](https://github.com/bububoy0907/Capstone-driving-sims-HK/releases/tag/v2025.04-demo)
 
 If you are reviewing this project and need a walkthrough of how the systems work (rule detection, AI traffic),
 please use the demo video and screenshots, or contact me for a guided demo.
