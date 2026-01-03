@@ -17,7 +17,7 @@ It is designed for **enhancing driving skills and promoting road safety awarenes
 ## Demo
 
 - Demo video: https://youtu.be/oZaKbXssdSM?si=HHuj-rQUMfqlvria
-- Screenshots: See below showcases
+- Screenshots: [See below showcases](https://github.com/bububoy0907/Capstone-driving-sims-HK?tab=readme-ov-file#project-showcases-screenshots)
 - Build (Windows): [GitHub Releases](https://github.com/bububoy0907/Capstone-driving-sims-HK/releases/tag/v2025.04-demo)
 
 If you are reviewing this project and need a walkthrough of how the systems work (rule detection, AI traffic),
@@ -148,17 +148,17 @@ Performance is evaluated based on the **traffic rule violation system**:
 
 ## Project Showcases (Screenshots)
 
-# Title Screen <br />
+### Title Screen <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/title_screen.png?raw=true)
 
-# Route Design:
+### Route Design:
   The terrain(map) is constructed:
   1. Using OpenStreetMap for geographic data
   2. Using Google Street View from Google Earth for image reference, e.g.: building, road object, signs...
   3. Modelling the layout and building detail in Blender
   4. Using EzRoadPro to construct the road
 
-# Map Development Progress on Blender <br />
+### Map Development Progress on Blender <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/map_development.png)
 
 Map Comparison with the actual Google Street View <br />
@@ -172,23 +172,23 @@ Map Comparison with the actual Google Street View <br />
 ![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_9.png?raw=1)
 ![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_10.png?raw=1)
 
-# Vehicle View <br />
+### Vehicle View <br />
 ![Map comparison](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/Map%20comparison_11.png?raw=1)
 
-# AI-Driven Dynamic Traffic <br />
+### AI-Driven Dynamic Traffic <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/NPC_vehicle.png)
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/NPC_vehicle_nav.jpg)
 
-# NPC Vehicle Waypoint System <br />
+### NPC Vehicle Waypoint System <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/npc_waypoint.png)
 
-# Traffic Intersection <br />
+### Traffic Intersection <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/traffic_intersection.png)
 
-# Traffic Rule Detection Alert Example <br />
+### Traffic Rule Detection Alert Example <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/vehicle_mechanic.png)
 
-# Result Report <br />
+### Result Report <br />
 ![alt text](https://github.com/bububoy0907/Capstone-driving-sims-HK/blob/main/media/result_screen.png)
 
 ---
