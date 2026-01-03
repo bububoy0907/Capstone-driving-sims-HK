@@ -1,43 +1,46 @@
-PORTFOLIO SOURCE-AVAILABLE LICENSE (PSAL) v1.0
+PORTFOLIO SOURCE-AVAILABLE LICENSE (PSAL) v1.1 — NO FORKS
 
 Copyright (c) 2026 Wong Tsz Yeung Jason
 All rights reserved.
 
 This software, including all source code, binaries, project files, documentation, and associated materials
-(the “Software”), is made publicly available for portfolio demonstration and evaluation purposes under the
-terms below.
+(the “Software”), is made publicly available for portfolio demonstration and evaluation purposes only,
+under the terms below.
 
 1) GRANT OF LIMITED LICENSE
 Subject to your full compliance with this License, the copyright holder grants you a non-exclusive,
 worldwide, non-transferable, non-sublicensable, revocable license to:
 
-  a) View and download the Software;
-  b) Clone the repository and build/run the Software locally; and
+  a) View the Software and download it to your local machine;
+  b) Clone the repository to your local machine and build/run the Software locally; and
   c) Make minimal, temporary modifications solely as reasonably necessary to evaluate the Software
      (e.g., to compile, configure, or test) (“Evaluation Modifications”).
 
-“Evaluation” includes personal learning and review, and internal assessment by potential employers,
-clients, recruiters, or interviewers for hiring/procurement/due-diligence purposes.
+“Evaluation” includes personal learning/review and internal assessment by potential employers, clients,
+recruiters, or interviewers for hiring/procurement/due-diligence purposes.
 
 2) RESTRICTIONS (NOT PERMITTED)
 Unless you have a separate written agreement signed by the copyright holder, you may NOT:
 
-  a) Use the Software (or any substantial portion of it) in production or as part of any commercial
-     product, service, or deliverable;
+  a) Fork the repository or create/maintain any fork of the Software on any hosting service
+     (including, without limitation, GitHub “Fork”, template generation, or any equivalent feature);
   b) Copy, redistribute, publish, or share the Software (in source or binary form), in whole or in part,
-     including via forks, mirrors, packages, marketplaces, code-sharing sites, or “template” repositories;
-  c) Create or distribute derivative works based on the Software. Evaluation Modifications are allowed
-     only for local evaluation and must not be shared or published;
-  d) Sublicense, sell, rent, lease, or otherwise transfer rights to the Software;
-  e) Remove or alter any copyright, attribution, or notice in the Software; or
-  f) Use the Software (or any portion of it) to train, fine-tune, or improve machine learning or AI models,
+     including via mirrors, forks, reposts, packages, registries, marketplaces, code-sharing sites, or
+     “template” repositories;
+  c) Create or distribute derivative works based on the Software. Evaluation Modifications are permitted
+     only for local evaluation and must not be shared, pushed, or published in any form;
+  d) Use the Software (or any substantial portion of it) in production or as part of any commercial
+     product, service, or deliverable;
+  e) Sublicense, sell, rent, lease, or otherwise transfer rights to the Software;
+  f) Remove or alter any copyright, attribution, or notice in the Software; or
+  g) Use the Software (or any portion of it) to train, fine-tune, or improve machine learning or AI models,
      or to generate training data sets.
 
 3) ATTRIBUTION FOR DISCUSSION
 You may include short excerpts of the source code (e.g., up to 50 lines per excerpt) in reviews, interview
 materials, or educational commentary provided that:
   a) The excerpts are not sufficient to reconstruct a substantial portion of the Software; and
-  b) You include clear attribution to “Wong Tsz Yeung Jason” and a reference to this repository.
+  b) You include clear attribution to “Wong Tsz Yeung Jason” and a reference to the original repository.
 
 4) THIRD-PARTY MATERIALS
 Third-party components (including Unity/Asset Store packages, fonts, models, textures, audio, and other
