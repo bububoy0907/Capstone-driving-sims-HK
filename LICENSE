@@ -1,0 +1,65 @@
+PORTFOLIO SOURCE-AVAILABLE LICENSE (PSAL) v1.0
+
+Copyright (c) 2026 Wong Tsz Yeung Jason
+All rights reserved.
+
+This software, including all source code, binaries, project files, documentation, and associated materials
+(the “Software”), is made publicly available for portfolio demonstration and evaluation purposes under the
+terms below.
+
+1) GRANT OF LIMITED LICENSE
+Subject to your full compliance with this License, the copyright holder grants you a non-exclusive,
+worldwide, non-transferable, non-sublicensable, revocable license to:
+
+  a) View and download the Software;
+  b) Clone the repository and build/run the Software locally; and
+  c) Make minimal, temporary modifications solely as reasonably necessary to evaluate the Software
+     (e.g., to compile, configure, or test) (“Evaluation Modifications”).
+
+“Evaluation” includes personal learning and review, and internal assessment by potential employers,
+clients, recruiters, or interviewers for hiring/procurement/due-diligence purposes.
+
+2) RESTRICTIONS (NOT PERMITTED)
+Unless you have a separate written agreement signed by the copyright holder, you may NOT:
+
+  a) Use the Software (or any substantial portion of it) in production or as part of any commercial
+     product, service, or deliverable;
+  b) Copy, redistribute, publish, or share the Software (in source or binary form), in whole or in part,
+     including via forks, mirrors, packages, marketplaces, code-sharing sites, or “template” repositories;
+  c) Create or distribute derivative works based on the Software. Evaluation Modifications are allowed
+     only for local evaluation and must not be shared or published;
+  d) Sublicense, sell, rent, lease, or otherwise transfer rights to the Software;
+  e) Remove or alter any copyright, attribution, or notice in the Software; or
+  f) Use the Software (or any portion of it) to train, fine-tune, or improve machine learning or AI models,
+     or to generate training data sets.
+
+3) ATTRIBUTION FOR DISCUSSION
+You may include short excerpts of the source code (e.g., up to 50 lines per excerpt) in reviews, interview
+materials, or educational commentary provided that:
+  a) The excerpts are not sufficient to reconstruct a substantial portion of the Software; and
+  b) You include clear attribution to “Wong Tsz Yeung Jason” and a reference to this repository.
+
+4) THIRD-PARTY MATERIALS
+Third-party components (including Unity/Asset Store packages, fonts, models, textures, audio, and other
+assets) may be subject to their own licenses and are NOT granted to you under this License. You are
+responsible for complying with all third-party license terms.
+
+5) NO WARRANTY
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. YOU ASSUME ALL RISK ARISING FROM USE OF THE SOFTWARE.
+
+6) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7) TERMINATION
+This License and the rights granted hereunder terminate automatically upon any breach of this License.
+Upon termination, you must cease all use of the Software and delete all copies in your possession or
+control.
+
+8) RESERVATION OF RIGHTS
+All rights not expressly granted in this License are reserved by the copyright holder.
+
+END OF TERMS
